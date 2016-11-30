@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageLoader</string>
+    <string name="image_not_loaded">Не загружено</string>
+</resources>
